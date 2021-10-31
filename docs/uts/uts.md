@@ -5,19 +5,19 @@ Sehingga hasil akhir utk UTS aplikasi dpt memanfaatkan VM, DB instance dan Objec
 ## VIRTUAL MACHINE
 Langkah 1
 
-![Langkah 4](img/1.PNG)
+![Langkah 4](img/1.png)
 
 Langkah 2
 
-![Langkah 5](img/2.PNG)
+![Langkah 5](img/2.png)
 
 Langkah 3
 
-![Langkah 6](img/3.PNG)
+![Langkah 6](img/3.png)
 
 Instance sudah terbuat
 
-![terbuat](img/4.PNG)
+![terbuat](img/4.png)
 
 ## DB INSTANCE
 
