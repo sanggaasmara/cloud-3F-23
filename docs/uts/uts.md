@@ -64,3 +64,5 @@ klik tampilkan web static
 
 tampilan setelah diklik
 ![Langkah ](img/18.jpg)
+
+Link Object Storage :http://168.138.100.94/wordpress/index.php/2021/10/31/object-storage/
